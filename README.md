@@ -88,3 +88,6 @@ Projet réalisé dans le cadre du stage **CodeAlpha** (App Development track).
 ## 📄 Cahier des charges
 
 Projet réalisé selon les spécifications **CodeAlpha Task 3 — Fitness Tracker App**, couvrant l'intégralité des Core Features et Professional Features demandées.
+## 📲 Télécharger l'APK
+
+[Télécharger et installer l'application (Android)](https://expo.dev/accounts/kawther_loula/projects/fitness-tracker-pro/builds/1ba95f60-9313-4047-b639-fc33b39ed489)
